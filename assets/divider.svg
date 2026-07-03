@@ -1,0 +1,18 @@
+<svg width="900" height="20" viewBox="0 0 900 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#A78BFA"/>
+      <stop offset="40%" stop-color="#22D3EE"/>
+      <stop offset="60%" stop-color="#4ADE80"/>
+      <stop offset="80%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#FB7185" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="10" x2="900" y2="10" stroke="url(#line)" stroke-width="1" opacity="0.4"/>
+  <circle r="3" fill="#A78BFA"><animateMotion path="M0,10 L900,10" dur="6s" repeatCount="indefinite"/></circle>
+  <circle r="2.5" fill="#22D3EE"><animateMotion path="M0,10 L900,10" dur="8s" begin="1.2s" repeatCount="indefinite"/></circle>
+  <circle r="3" fill="#4ADE80"><animateMotion path="M900,10 L0,10" dur="7s" begin="0.5s" repeatCount="indefinite"/></circle>
+  <circle r="2.5" fill="#FBBF24"><animateMotion path="M0,10 L900,10" dur="10s" begin="2.4s" repeatCount="indefinite"/></circle>
+  <circle r="3" fill="#FB7185"><animateMotion path="M900,10 L0,10" dur="9s" begin="1.8s" repeatCount="indefinite"/></circle>
+</svg>
