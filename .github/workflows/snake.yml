@@ -16,12 +16,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: generate snake svg
+      - name: generate snake svg (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: youcisla
           outputs: |
-            dist/github-snake.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-light&color_snake=#0E7490
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#22D3EE
 
       - name: push to output branch
