@@ -14,7 +14,7 @@ AI & automation engineer. I build enterprise platforms, and ship agent products,
 
 **Content automation** — a private stack of eight n8n workflows that generate and republish AI video and music (Sora 2, Veo 3, Suno, Telegram bots), with ffmpeg rendering and scheduled publishing.
 
-**TradeBot** — a trading system measured until it proved itself wrong: 3,271 positions, 37.9% win rate, -0.431R. The negative result set the rule that nothing ships without a measured edge.
+**TradeBot** — a trading system measured until it proved itself wrong: 1,074 positions in the committed run, 38.6% win rate, -0.49R. The negative result set the rule that nothing ships without a measured edge.
 
 ## Stack
 
