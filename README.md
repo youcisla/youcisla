@@ -8,7 +8,7 @@ AI & automation engineer. I build enterprise platforms, and ship agent products,
 
 **Sentio** — multi-agent app that turns two private accounts into one shared write-up. Privacy is enforced at the Postgres row-level-security layer, not hidden in the UI. [Live](https://sentiio.vercel.app)
 
-**Agent Foundry** — MIT-licensed runtime that keeps AI coding agents on task: 31 skills, 3 agent roles, 3 quality gates you can run. [Code](https://github.com/youcisla/Agent-Foundry) · [Live](https://youcisla-agents.vercel.app)
+**Agent Foundry** — MIT-licensed runtime that keeps AI coding agents on task: 41 original skills, 3 agent roles, and a runnable quality-gate script. [Code](https://github.com/youcisla/Agent-Foundry) · [Live](https://youcisla-agents.vercel.app)
 
 **DataLake Météo** — Bronze/Silver/Gold lakehouse over live and batch weather data with Kafka, Spark Structured Streaming and Airflow. [Code](https://github.com/youcisla/DataLakeHouse) · [Live](https://meteo-fr-dt.vercel.app)
 
