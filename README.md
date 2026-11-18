@@ -1,12 +1,12 @@
 # Youcef Chehboub
 
-AI & automation engineer. I build enterprise platforms, and ship agent products, content automations and data pipelines on the side.
+AI engineer, full-stack developer and automation engineer. I build agent products, web platforms and the data pipelines behind them.
 
 [Portfolio](https://youcef-chehboub.vercel.app) · [CV](https://youcef-chehboub.vercel.app/youcef-chehboub-cv.pdf) · [LinkedIn](https://linkedin.com/in/youcisla) · [Email](mailto:chehbouby@gmail.com)
 
 ## Selected work
 
-**Sentio** — multi-agent app that turns two private accounts into one shared write-up. Privacy is enforced at the Postgres row-level-security layer, not hidden in the UI. [Live](https://sentiio.vercel.app)
+**Sentio** — multi-agent app that turns two private sides into one shared write-up. Privacy is enforced at the Postgres row-level-security layer, not hidden in the UI. [Live](https://sentiio.vercel.app)
 
 **Agent Foundry** — MIT-licensed runtime that keeps AI coding agents on task: 41 original skills, 3 agent roles, and a runnable quality-gate script. [Code](https://github.com/youcisla/Agent-Foundry) · [Live](https://youcisla-agents.vercel.app)
 
